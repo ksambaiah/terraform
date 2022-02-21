@@ -26,6 +26,6 @@
       output = json
       $cat ~/.aws/credentials
       [default]
-      aws_access_key_id = AKIA6B46A5NUFXMMYJFP
-      aws_secret_access_key = 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```
+      aws_access_key_id = aws_access_key_here
+      aws_secret_access_key = secret_key_here```
    Please note the default in the above, we will visit later.
