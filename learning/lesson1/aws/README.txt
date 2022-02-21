@@ -3,7 +3,6 @@
 
 ## General introduction of terraform
 
-* You need to install terraform, awscli is optional.
 * Few commands to check terraform
 * terraform plan
 * terraform validate
@@ -21,10 +20,6 @@
    terraform. We are explaining take default profile, what it means?
    awscli one can define accesskey and secret key in ~/.aws/credentials file and take default
    profile from it.
-   Example of aws credentials file
-   [default]
-   aws_access_key_id=my_aws_key_goes_here
-   aws_secret_access_key=secret_key_goes_here.
 
 ## vpc.tf
    This file is self explanatory not going to explain it.
