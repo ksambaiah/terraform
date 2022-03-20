@@ -19,6 +19,9 @@ ruzzai-link-996126  My Project  90148130728l1
 
   ```
   
-  
+ ### 
+  * gcloud auth application-default login
+  * export GOOGLE_APPLICATION_CREDENTIALS="/Users/sambaiahkilaru/.config/gcloud/application_default_credentials.json"
+  * gcloud compute images list
  
 
